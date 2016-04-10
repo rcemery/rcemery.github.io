@@ -1,0 +1,85 @@
+  * {
+    margin: auto;
+    box-sizing: border-box;
+  }
+  /* Note to students: Some properties are given to you to fill out,
+  others you can modify as they stand, and if you have time,
+  there are definitely some properties you should add!*/
+
+
+
+
+      body {
+        font-family: 'Helvetica', sans-serif;
+         width: 800px;
+         height: 100%;
+      }
+
+      header {
+          background-color: green;
+          border: 1px solid #000;
+          margin-bottom: 1em;
+          padding: 5px;
+          font-size: 1em;
+          display: block;
+      }
+    img {
+      max-width: 85%;
+    }
+
+      nav {
+          float: left;
+      }
+      nav ul {
+          margin: 1em;
+          padding: 0;
+          float: left;
+          border-bottom: 0;
+          list-style-type: none;
+      }
+      nav li {
+          float: left;
+      }
+      nav li a {
+          display: block;
+          height: 25px;
+          padding: 12px 18px 8px 18px;
+          vertical-align: top;
+      }
+      a {
+          color: ;
+      }
+      section {
+          margin: 1em;
+          width: 73%;
+          display: inline-block;
+          float: left;
+      }
+      aside {
+          width: 23%;
+          display: inline-block;
+          background-color: yellow;
+          border: 1px solid #000;
+          padding:1.5em;
+          min-height: 50%;
+      }
+      aside ul {
+          list-style-type: none;
+      }
+      footer {
+          width: 790px;
+          background-color:;
+          color:;
+          clear: both;
+          display: block;
+      }
+
+      .contact {
+          padding: 0;
+          list-style-type: none;
+          text-align: left;
+      }
+
+      .headings {
+        font-size: 2em;
+      }
